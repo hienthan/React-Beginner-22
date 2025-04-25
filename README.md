@@ -13,3 +13,5 @@ const {
 - keepPreviousData: true,
 + placeholderData: keepPreviousData
 });
+
+*Notes: import Axios instead of {Axios} from "axios"
